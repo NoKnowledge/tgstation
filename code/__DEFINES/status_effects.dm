@@ -77,5 +77,11 @@
 #define STATUS_EFFECT_SIGILMARK /datum/status_effect/sigil_mark
 
 #define STATUS_EFFECT_CRUSHERDAMAGETRACKING /datum/status_effect/crusher_damage //tracks total kinetic crusher damage on a target
-
++
++/////////////
++//  SLIME  //
++/////////////
++
++#define STATUS_EFFECT_RAINBOWPROTECTION /datum/status_effect/rainbow_protection //Invulnerable and pacifistic
++#define STATUS_EFFECT_SLIMESKIN /datum/status_effect/slimeskin //Increased armor 
 #define STATUS_EFFECT_SYPHONMARK /datum/status_effect/syphon_mark //tracks kills for the KA death syphon module

@@ -230,6 +230,12 @@
 	desc = "Is your weight slowing you down? Having trouble running away from gravitational singularities? Can't stop stuffing your mouth? Smoke Shady Jim's Super Slims and watch all that fat burn away. Guaranteed results!"
 	icon_state = "shadyjim"
 	spawn_type = /obj/item/clothing/mask/cigarette/shadyjims
+	
+/obj/item/storage/fancy/cigarettes/cigpack_xeno
+	name = "\improper Xeno Filtered packet"
+	desc = "Loaded with 100% pure slime. And also nicotine."
+	icon_state = "slime"
+	spawn_type = /obj/item/clothing/mask/cigarette/xeno
 
 /obj/item/storage/fancy/rollingpapers
 	name = "rolling paper pack"
